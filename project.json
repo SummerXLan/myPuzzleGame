@@ -1,0 +1,7 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "myPuzzleGame",
+  "id": "1f929712-6e40-421a-a82e-b1fe4f23e855",
+  "version": "2.3.2"
+}
