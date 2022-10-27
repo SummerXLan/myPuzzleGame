@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c510466b-86fc-4942-9633-f06c79a132fa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 16,
+  "height": 16,
+  "platformSettings": {},
+  "subMetas": {
+    "TabanDown": {
+      "ver": "1.0.4",
+      "uuid": "e41911b3-c612-4298-9e6f-1794f438380c",
+      "rawTextureUuid": "c510466b-86fc-4942-9633-f06c79a132fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 16,
+      "height": 13,
+      "rawWidth": 16,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

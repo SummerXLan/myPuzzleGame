@@ -2,21 +2,56 @@
   "group-list": [
     "default",
     "wall",
-    "player"
+    "player",
+    "ui",
+    "prop",
+    "visibleProp"
   ],
   "collision-matrix": [
     [
-      true
-    ],
-    [
       false,
       false,
+      true,
+      null,
+      true,
       true
     ],
     [
       false,
       true,
+      true,
+      null,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
       false
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
     ]
   ],
   "excluded-modules": [
@@ -44,5 +79,6 @@
     "live": {
       "enable": false
     }
-  }
+  },
+  "start-scene": "current"
 }
